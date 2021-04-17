@@ -4,3 +4,6 @@ es muy rapido e igualmente para mostra los mismos.
 
 Usamos un Arbol Binario para Guardar , Todos los DATOS , de los Usuarios:
 JUAN , PEDRO , como nos lo indicaba el Enunciado .
+
+
+Explicacion del Codigo : https://youtu.be/U51BejR2yLo
